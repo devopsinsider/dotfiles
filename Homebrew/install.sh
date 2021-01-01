@@ -17,6 +17,8 @@ brew list --cask microsoft-edge || brew install --cask microsoft-edge
 brew list --cask google-chrome || brew install --cask google-chrome
 brew list --cask node || brew install --cask node
 brew list --cask dotnet-sdk || brew install --cask dotnet-sdk
+brew list --cask docker || brew install --cask docker
+brew list --cask postgres || brew install --cask postgres
 brew list --cask visual-studio-code || brew install --cask visual-studio-code
 brew list --cask bot-framework-emulator || brew install --cask bot-framework-emulator
 brew list --cask slack || brew install --cask slack
