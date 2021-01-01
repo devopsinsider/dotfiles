@@ -13,6 +13,7 @@ echo 'Installing brew casks'
 brew list ruby|| brew install ruby
 brew list azure-cli || brew install azure-cli
 brew list  --cask google-cloud-sdk || brew install --cask google-cloud-sdk
+brew list --cask microsoft-edge || brew install --cask microsoft-edge
 brew list --cask google-chrome || brew install --cask google-chrome
 brew list --cask node || brew install --cask node
 brew list --cask dotnet-sdk || brew install --cask dotnet-sdk
