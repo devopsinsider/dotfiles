@@ -1,6 +1,9 @@
 winget install --id="WhatsApp.WhatsApp" --exact --silent ;
 winget install --id="Git.Git" --exact --silent ;
+winget install --id="Axosoft.GitKraken" --exact --silent ;
+winget install --id="GitExtensionsTeam.GitExtensions" --exact --silent ;
 winget install --id="Microsoft.dotnet" --exact --silent ; 
+winget install --id="Microsoft.AzureStorageExplorer" --exact --silent ;
 winget install --id="LogMeIn.LastPass" --exact --silent ; 
 winget install --id="SlackTechnologies.Slack" --exact --silent ; 
 winget install --id="Postman.Postman" --exact --silent ; 
