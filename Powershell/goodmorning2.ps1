@@ -1,4 +1,4 @@
-echo Start-Process outlookmail:
+Start-Process outlookmail:
 Start-Process wt
 
 Start-Process "https://github.com"
