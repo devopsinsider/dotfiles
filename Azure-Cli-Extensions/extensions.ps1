@@ -1,0 +1,1 @@
+az extension list-available --output table
