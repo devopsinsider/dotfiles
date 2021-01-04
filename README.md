@@ -1,5 +1,5 @@
 # Dotfiles
-Dotfiles for setting up various machines by script
+Dotfiles for setting up various machines
 
 - Powershell - Windows Machines startup files
 - CodeExtensions - A Collection of default vs code extensions
